@@ -157,7 +157,7 @@ Coverage:
 - Intelligent Reporting
 - Automated Model Validation
 - Risk Decision Support
-```
+  
 
 
 ### Roadmap Status
@@ -228,7 +228,6 @@ SAS
 
 The objective is to showcase how traditional banking stress-testing platforms can be modernized into scalable, cloud-native, AI-enabled analytical ecosystems.
 
----
 
 # Future Roadmap
 
@@ -243,7 +242,7 @@ Planned Enhancements:
 - Enterprise Risk Knowledge Graph
 - GenAI-Powered Credit Risk Advisory
 
----
+
 
 ## Author
 
