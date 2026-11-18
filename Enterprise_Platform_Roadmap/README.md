@@ -158,6 +158,7 @@ Coverage:
 - Automated Model Validation
 - Risk Decision Support
   
+---
 
 
 ### Roadmap Status
@@ -215,16 +216,25 @@ Coverage:
 ## Learning Outcome
 
 This roadmap demonstrates a modern banking analytics transformation journey:
+---
+→ SAS
 
-SAS
 → Python
+
 → AI-Assisted Analytics
+
 → Statistical Risk Modelling
+
 → Enterprise Databases
+
 → Analytical Engines
+
 → Databricks Lakehouse
+
 → Microsoft Fabric
+
 → Enterprise GenAI
+---
 
 The objective is to showcase how traditional banking stress-testing platforms can be modernized into scalable, cloud-native, AI-enabled analytical ecosystems.
 
