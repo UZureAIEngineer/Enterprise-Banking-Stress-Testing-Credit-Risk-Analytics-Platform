@@ -159,7 +159,6 @@ Coverage:
 - Risk Decision Support
 ```
 
----
 
 ### Roadmap Status
 
@@ -175,8 +174,6 @@ Coverage:
 | V8 - Azure AI & Fabric | 📅 Future Phase |
 | V9 - Enterprise GenAI Risk Advisor | 📅 Future Phase |
 
-
----
 
 
 ### Skills Demonstrated
@@ -212,7 +209,7 @@ Coverage:
 - Predictive Analytics
 - Risk Commentary Generation
 - Enterprise AI Solutions
----
+
 
 
 ## Learning Outcome
