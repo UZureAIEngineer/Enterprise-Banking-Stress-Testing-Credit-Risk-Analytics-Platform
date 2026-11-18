@@ -1,435 +1,239 @@
-
-# Enterprise Banking Stress Testing & Credit Risk Analytics Platform
-
-## Enterprise Modernization Roadmap
-
----
-
-## Overview
-
-This roadmap documents the complete modernization journey of an Enterprise Banking Stress Testing and Credit Risk Analytics Platform.
-
-The objective of this portfolio is to demonstrate how traditional banking analytics platforms evolve from legacy SAS processing environments into cloud-native, AI-enabled, Lakehouse-based analytical ecosystems utilizing:
-
-- SAS
-- SQL
-- PostgreSQL
-- Python
-- Machine Learning
-- Risk Analytics
-- Databricks
-- Delta Lake
-- Azure Fabric
-- Generative AI
-
-The roadmap follows a practical industry-aligned transformation path commonly observed in modern banking, financial services, risk management, and analytics organizations.
-
----
-
-# Platform Evolution Journey
-
-```text
-V1 SAS Foundation
-      ↓
-V2 SQL & PostgreSQL Integration
-      ↓
-V3 SAS to Python Migration
-      ↓
-V4 AI Risk Insights
-      ↓
-V5 Statistical Risk Modelling
-      ↓
-V6 Azure AI & Fabric Lakehouse
-```
-
----
-
-# Roadmap Objectives
-
-This roadmap demonstrates:
-
-✅ Banking Analytics
-
-✅ Credit Risk Analytics
-
-✅ Regulatory Reporting
-
-✅ Stress Testing
-
-✅ Portfolio Analytics
-
-✅ SAS Modernization
-
-✅ Python Engineering
-
-✅ Databricks Lakehouse
-
-✅ AI-Powered Analytics
-
-✅ Enterprise Architecture Design
-
-✅ Modern Data Platform Development
-
----
-
-# V1 – SAS Foundation ✅
-
-## Purpose
-
-Establish a traditional enterprise-grade stress testing framework using SAS.
-
-## Coverage
-
-- SAS Base Programming
-- SAS SQL
-- SAS Macro Development
-- Data Preparation
-- Portfolio Data Processing
-- Risk Reporting
-- Regulatory Calculations
-- Batch Processing Frameworks
-
-## Deliverables
-
-- SAS Programs
-- Validation Reports
-- Portfolio Aggregations
-- Regulatory Reporting Outputs
-- Stress Testing Reports
-
-## Industry Relevance
-
-Historically used within:
-
-- CCAR
-- Basel Reporting
-- IFRS9
-- Credit Portfolio Monitoring
-- Regulatory Risk Reporting
-
----
-
-# V2 – SQL / PostgreSQL Integration ✅
-
-## Purpose
-
-Modernize storage architecture by introducing relational database capabilities.
-
-## Coverage
-
-- PostgreSQL
-- SQL Development
-- Database Design
-- Portfolio Warehousing
-- Data Validation
-- Data Integration
-
-## Key Deliverables
-
-### Core Tables
-
-- Customer
-- Account
-- Product
-- Portfolio
-- Exposure
-- Economic Scenario
-
-### Benefits
-
-- Centralized Data Storage
-- Improved Data Governance
-- Faster Query Performance
-- Better Auditability
-
----
-
-# V3 – SAS to Python Migration ✅
-
-## Purpose
-
-Transform legacy SAS analytics into modern Python-based frameworks.
-
-## Coverage
-
-### SAS Migration Areas
-
-- DATA Step to Pandas
-- PROC SQL to Python SQL
-- SAS Macros to Python Functions
-- Automation Frameworks
-- Reporting Pipelines
-
-### Python Stack
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- SQLAlchemy
-- Jupyter
-
-## Validation Strategy
-
-Migration validation includes:
-
-- Record Count Validation
-- Control Total Verification
-- KPI Reconciliation
-- Output Comparison
-- Business Sign-Off
-
-## Expected Benefits
-
-- Cost Reduction
-- Open Source Adoption
-- Cloud Readiness
-- Improved Maintainability
-
----
-
-# V4 – AI Risk Insights ✅
-
-## Purpose
-
-Introduce AI-powered analytical capabilities into risk management workflows.
-
-## Coverage
-
-### AI Components
-
-- Risk Narrative Generation
-- Automated Commentary
-- Portfolio Summarization
-- Trend Detection
-- Scenario Interpretation
-
-### Generative AI Use Cases
-
-- Executive Reporting
-- Risk Commentary
-- Scenario Documentation
-- Automated Insights
-
-## Business Value
-
-Transforms raw risk metrics into actionable business decisions.
-
----
-
-# V5 – Statistical Risk Modelling ✅
-
-## Purpose
-
-Develop quantitative risk models used across enterprise banking environments.
-
-## Coverage
-
-### Risk Models
-
-- Probability of Default (PD)
-- Loss Given Default (LGD)
-- Exposure At Default (EAD)
-- Expected Loss (EL)
-
-### Statistical Techniques
-
-- Logistic Regression
-- Correlation Analysis
-- Segmentation
-- Forecasting
-- Portfolio Risk Analysis
-
-### Outputs
-
-- Scorecards
-- Risk Ratings
-- Stress Testing Results
-- Portfolio Risk Metrics
-
----
-
-# V6 – Azure AI & Fabric Lakehouse ✅
-
-## Purpose
-
-Transform the platform into a cloud-native enterprise analytics ecosystem.
-
-## Technology Stack
-
-### Azure Services
-
-- Azure Data Lake Storage
-- Azure Data Factory
-- Azure SQL
-- Azure Machine Learning
-- Azure OpenAI
-
-### Microsoft Fabric
-
-- OneLake
-- Lakehouse
-- Data Engineering
-- Data Science
-- Real-Time Analytics
-- Power BI
-
-### Databricks Components
-
-- Delta Lake
-- PySpark
-- Notebooks
-- Lakehouse Architecture
-
-## Benefits
-
-- Scalability
-- High Availability
-- Cloud Analytics
-- Enterprise Governance
-- AI Integration
-
----
-
-# Enterprise Architecture Evolution
-
-## Legacy Architecture
-
-```text
-Source Systems
-      ↓
-SAS Processing
-      ↓
-Excel Reports
-      ↓
-Business Users
-```
-
-## Modern Architecture
-
-```text
-Source Systems
-      ↓
-Data Lake
-      ↓
-Delta Lake
-      ↓
-Databricks
-      ↓
-PySpark
-      ↓
-Risk Models
-      ↓
-AI Insights
-      ↓
-Fabric / Power BI
-      ↓
-Business Users
-```
-
-
 # Enterprise Platform Roadmap
 
 This roadmap represents the modernization journey of an Enterprise Banking Stress Testing & Credit Risk Analytics Platform.
 
+---
+
+## Modernization Evolution Journey
+
+```text
+Traditional SAS Analytics
+          ↓
+Python Modernization
+          ↓
+AI-Powered Risk Insights
+          ↓
+Statistical Risk Models
+          ↓
+Enterprise Database Layer
+          ↓
+Analytical Query Engine
+          ↓
+Databricks Lakehouse
+          ↓
+Azure AI & Microsoft Fabric
+          ↓
+Enterprise GenAI Risk Advisor
+```
+
+---
+
 ## Roadmap Overview
 
 ### V1 - SAS Foundation ✅
-Traditional Stress Testing Framework using SAS.
 
-### V2 - SQL / PostgreSQL ⏳ Under Development
-Database integration and portfolio storage.
+Traditional enterprise stress testing framework built using:
 
-### V3 - Python Migration ✅
-Migration of SAS processing logic to Python.
+- SAS Base
+- SAS SQL
+- SAS Macros
+- Portfolio Processing
+- Regulatory Reporting
+- Risk Analytics
 
-### V4 - AI Risk Insights ✅
-AI-assisted stress testing and risk analytics.
+---
 
-### V5 - Statistical Risk Modelling 🚧 In Progress
-PD, LGD, EAD and ECL Modelling.
+### V2 - Python Migration ✅
 
-### V6 - Azure AI & Fabric ⏳ Under Development
-Cloud-native modernization and AI integration.
+Migration of SAS workloads into modern Python frameworks.
 
+Key Technologies:
 
+- Python
+- Pandas
+- NumPy
+- Jupyter
+- GitHub
+- VS Code
+
+---
+
+### V3 - AI Risk Insights ✅
+
+AI-assisted banking analytics and risk reporting.
+
+Key Capabilities:
+
+- Risk Narratives
+- AI Commentary
+- Trend Detection
+- Scenario Interpretation
+- Executive Reporting
+
+---
+
+### V4 - Statistical Risk Modelling 🚧
+
+Currently building quantitative risk models.
+
+Coverage:
+
+- PD (Probability of Default)
+- LGD (Loss Given Default)
+- EAD (Exposure At Default)
+- Expected Loss
+- Portfolio Risk Analytics
+- Credit Risk Modelling
+
+---
+
+### V5 - PostgreSQL Integration ⏳
+
+Planned enterprise persistence layer.
+
+Coverage:
+
+- Database Design
+- Portfolio Storage
+- Risk Data Warehouse
+- SQL Development
+- Data Governance
+
+---
+
+### V6 - DuckDB Analytics Engine ⏳
+
+Planned high-performance analytical engine.
+
+Coverage:
+
+- In-Memory Analytics
+- OLAP Processing
+- Parquet Querying
+- Portfolio Aggregations
+- Financial Analytics Acceleration
+
+---
+
+### V7 - Databricks Lakehouse 🚧
+
+Current modernization stream.
+
+Coverage:
+
+- Databricks
+- Delta Lake
+- PySpark
+- Lakehouse Architecture
+- Medallion Architecture
+- Enterprise Data Engineering
+
+---
+
+### V8 - Azure AI & Fabric 📅
+
+Future cloud-native platform.
+
+Coverage:
+
+- OneLake
+- Microsoft Fabric
+- Azure Data Factory
+- Azure OpenAI
+- Enterprise Reporting
+- Power BI
+
+---
+
+### V9 - Enterprise GenAI Risk Advisor 📅
+
+Long-term target architecture.
+
+Coverage:
+
+- Agentic AI
+- Risk Copilot
+- Knowledge Graphs
+- Intelligent Reporting
+- Automated Model Validation
+- Risk Decision Support
+```
+
+---
+
+### Replace Current "Roadmap Status" Section With
+
+````markdown
 ## Roadmap Status
 
+| Phase | Status |
+|---------|---------|
+| V1 - SAS Foundation | ✅ Completed |
+| V2 - Python Migration | ✅ Completed |
+| V3 - AI Risk Insights | ✅ Completed |
+| V4 - Statistical Risk Modelling | 🚧 In Progress |
+| V5 - PostgreSQL Integration | ⏳ Planned |
+| V6 - DuckDB Analytics Engine | ⏳ Planned |
+| V7 - Databricks Lakehouse | 🚧 In Progress |
+| V8 - Azure AI & Fabric | 📅 Future Phase |
+| V9 - Enterprise GenAI Risk Advisor | 📅 Future Phase |
 
-✅ V1 - SAS Foundation
-
-⏳ V2 - SQL & PostgreSQL
-
-✅ V3 - Python Migration
-
-✅ V4 - AI Risk Insights
-
-🚧 V5 - Statistical Risk Modelling
-
-🔜 V6 - Azure AI & Fabric
-
-📅 V7 - Databricks Enterprise Lakehouse
-
-📅 V8 - GenAI Risk Assistant
-
-🎯 V9 - Enterprise Banking Analytics Platform
 
 
 ---
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-## Banking Domain
+### Banking & Risk
 
-- Stress Testing
 - Credit Risk Analytics
 - Portfolio Analytics
+- Stress Testing
 - Regulatory Reporting
-- Basel Concepts
-- IFRS9 Concepts
+- Model Validation
+- Risk Governance
 
-## Data Management
-
-- ETL Development
-- Data Warehousing
-- Data Quality
-- Reconciliation
-- Validation
-
-## Programming
+### Programming
 
 - SAS
 - SQL
 - Python
 - PySpark
 
-## Cloud & Modern Data Platforms
+### Modern Data Platforms
 
+- PostgreSQL
+- DuckDB
 - Databricks
 - Delta Lake
-- Azure
 - Microsoft Fabric
 
-## AI
+### AI & Analytics
 
 - Generative AI
-- Risk Commentary
-- LLM Integration
-- Intelligent Analytics
-
+- Statistical Modelling
+- Predictive Analytics
+- Risk Commentary Generation
+- Enterprise AI Solutions
 ---
 
-# Learning Outcome
 
-This roadmap demonstrates the complete evolution from:
+## Learning Outcome
 
-Traditional Banking Analytics
-→ Modern Data Engineering
-→ AI-Powered Risk Analytics
-→ Cloud-Native Lakehouse Architecture
+This roadmap demonstrates a modern banking analytics transformation journey:
 
-The journey reflects how large financial institutions are modernizing risk analytics platforms while preserving regulatory compliance, auditability, scalability, and business value.
+SAS
+→ Python
+→ AI-Assisted Analytics
+→ Statistical Risk Modelling
+→ Enterprise Databases
+→ Analytical Engines
+→ Databricks Lakehouse
+→ Microsoft Fabric
+→ Enterprise GenAI
+
+The objective is to showcase how traditional banking stress-testing platforms can be modernized into scalable, cloud-native, AI-enabled analytical ecosystems.
 
 ---
 
@@ -458,22 +262,3 @@ GitHub Portfolio:
 https://github.com/UZureAIEngineer
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
