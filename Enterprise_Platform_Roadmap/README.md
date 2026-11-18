@@ -346,11 +346,24 @@ Migration of SAS processing logic to Python.
 ### V4 - AI Risk Insights ✅
 AI-assisted stress testing and risk analytics.
 
-### V5 - Statistical Risk Modelling 🟡 In Progress
+### V5 - Statistical Risk Modelling 🚧 In Progress
 PD, LGD, EAD and ECL Modelling.
 
 ### V6 - Azure AI & Fabric ⏳ Under Development
 Cloud-native modernization and AI integration.
+
+
+Roadmap Status
+
+✅ V1 - SAS Foundation
+⏳ V2 - SQL & PostgreSQL
+✅ V3 - Python Migration
+✅ V4 - AI Risk Insights
+🚧 V5 - Statistical Risk Modelling
+🔜 V6 - Azure AI & Fabric
+📅 V7 - Databricks Enterprise Lakehouse
+📅 V8 - GenAI Risk Assistant
+🎯 V9 - Enterprise Banking Analytics Platform
 
 ---
 
