@@ -161,10 +161,7 @@ Coverage:
 
 ---
 
-### Replace Current "Roadmap Status" Section With
-
-````markdown
-## Roadmap Status
+### Roadmap Status
 
 | Phase | Status |
 |---------|---------|
@@ -179,11 +176,10 @@ Coverage:
 | V9 - Enterprise GenAI Risk Advisor | 📅 Future Phase |
 
 
-
 ---
 
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 ### Banking & Risk
 
