@@ -353,17 +353,27 @@ PD, LGD, EAD and ECL Modelling.
 Cloud-native modernization and AI integration.
 
 
-Roadmap Status
+## Roadmap Status
+
 
 ✅ V1 - SAS Foundation
+
 ⏳ V2 - SQL & PostgreSQL
+
 ✅ V3 - Python Migration
+
 ✅ V4 - AI Risk Insights
+
 🚧 V5 - Statistical Risk Modelling
+
 🔜 V6 - Azure AI & Fabric
+
 📅 V7 - Databricks Enterprise Lakehouse
+
 📅 V8 - GenAI Risk Assistant
+
 🎯 V9 - Enterprise Banking Analytics Platform
+
 
 ---
 
